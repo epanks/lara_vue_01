@@ -1,7 +1,7 @@
 # Installation 
 Clone repo
 
-	git clone https://github.com/webdevmatics/webdemy.git
+	git clone https://github.com/epanks/lara_vue_01.git
 Install the composer dependencies
 
 	composer install
